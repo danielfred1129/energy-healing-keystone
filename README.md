@@ -1,4 +1,4 @@
-# Energy-Healing-Keystone
+# Node-Keystone
 Node / KeyStone
 
 ## Install
@@ -9,9 +9,9 @@ $ npm install -g generator-keystone
 
 ####Create a folder for your project
 
-$ mkdir energy-healing-keystone
+$ mkdir node-keystone
 
-$ cd energy-healing-keystone
+$ cd node-keystone
 
 
 ####Run the generator
